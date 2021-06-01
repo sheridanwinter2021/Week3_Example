@@ -16,6 +16,7 @@ private String name;
 private int age;
 private int marks;
     private int year;
+    private int parttime_studid;
 
     /**
      * @return the name
