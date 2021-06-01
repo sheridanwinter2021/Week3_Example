@@ -5,7 +5,7 @@
  */
 package studentdetails;
 
-/**
+/** checking in nbeans
  * MVC  - organizing code
  * view class
  * @author sivagamasrinivasan date: June 1st
