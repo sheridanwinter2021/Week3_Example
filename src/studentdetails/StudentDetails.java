@@ -8,7 +8,7 @@ package studentdetails;
 /**
  * MVC  - organizing code
  * view class
- * @author sivagamasrinivasan
+ * @author sivagamasrinivasan date: June 1st
  */
 public class StudentDetails {
 
